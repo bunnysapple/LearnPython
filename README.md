@@ -10,10 +10,18 @@ A key aspect of programming is, yknow, actually programming? And you can't alway
 
 What I like to use is Visual Studio Code, which is a free and popular Text Editor made by Microsoft, for programming. I like Visual Studio Code as it is highly customisable, with it's many extensions, and the ease of use for beginners. It's also very easy to install and start coding with, so I'll be providing a link to the official page for installation. If you already have it installed, or prefer a different IDE/Text Editor, feel free to skip this bit and follow along.
 
-#### Step 1
+- #### Step 1
 
-Follow [this](https://code.visualstudio.com/) link to visual studio code home page: https://code.visualstudio.com/
+  Follow [this](https://code.visualstudio.com/) link to visual studio code home page: https://code.visualstudio.com/
 
-It should look something like this:
+  It should look something like this:
 
-![Visual Studio Code Home Page](https://i.postimg.cc/nhjnGzZD/Visual-Studio-Code-Home.png)
+  ![Visual Studio Code Home Page](https://i.postimg.cc/nhjnGzZD/Visual-Studio-Code-Home.png)
+
+- #### Step 2
+
+  Install the right installer for your operating system. I have a Microsoft OS so I would install the Windows user installer. Usually the right one is recommended for you up front, but click the blue arrow for more options.
+
+  ![Visual Studio Code Installer Options](https://i.postimg.cc/R0TCNY4s/Visual-Studio-Code-Options.png)
+
+  Once you've selected, the installer should start to be downladed. Open it once the download is completed.
