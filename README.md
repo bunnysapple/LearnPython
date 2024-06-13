@@ -45,3 +45,9 @@ If you prefer instructions in the form of a video, visit [this](https://www.yout
   ![Visual Studio Code User Setup Prompt](https://i.postimg.cc/65PZY8sV/Visual-Studio-Code-Choose-Icon.png)
   
   This is optional and you can choose not to have a desktop icon if you prefer.
+
+- #### Step 5
+
+  Press install to start the installation of Visual Studio Code:
+
+  ![Visual Studio Code Install](https://i.postimg.cc/prHv2YnQ/Visual-Studio-Code-Installation.png)
