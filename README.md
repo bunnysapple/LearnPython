@@ -50,4 +50,8 @@ If you prefer instructions in the form of a video, visit [this](https://www.yout
 
   Press install to start the installation of Visual Studio Code:
 
-  ![Visual Studio Code Install](https://i.postimg.cc/prHv2YnQ/Visual-Studio-Code-Installation.png)
+  ![Visual Studio Code Install](https://i.postimg.cc/BQGFyXM2/Visual-Studio-Code-Installation.png)
+
+Once Visual Studio Code has been installed, it's now time to download Python. Cause, y'know, you can't use python without installing python.
+
+### Python
