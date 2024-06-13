@@ -34,4 +34,14 @@ If you prefer instructions in the form of a video, visit [this](https://www.yout
 
   ![VisualStudioCodeUserSetup](https://i.postimg.cc/sDbznrTG/Visual-Studio-Code-Setup.png)
 
-  Read and accept the user agreement, click next and answer the following prompts to begin installation of Visual Studio Code. No modifications to the setup are necessary.
+  Read and accept the user agreement, click Next button to continue.
+
+- #### Step 4
+
+  Choose the location data for running Visual Studio Code. This can be the default location and no changes are necessary.
+
+  However, I do prefer choosing the "Create a desktop icon" button once you get to this prompt.
+
+  ![Visual Studio Code User Setup Prompt](https://i.postimg.cc/65PZY8sV/Visual-Studio-Code-Choose-Icon.png)
+  
+  This is optional and you can choose not to have a desktop icon if you prefer.
