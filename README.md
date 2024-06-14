@@ -4,6 +4,8 @@ This is a small personal project that I wish to do, between projects, to help co
 
 ## Installations
 
+These installation guides are very basic and are aimed at Windows users, as that is the operating system I am most familiar with. I have provided external links for others who would rather visit a YouTube tutorials or for those who have an operating syster other than Windows.
+
 ### IDE/Text Editor
 
 A key aspect of programming is, yknow, actually programming? And you can't always code things in your browser. So, what you use instead is an IDE, or a Text Editor, as your codespace for you to work in. These are really impressive softwares that help. For this project, you will be required to fork this repository and run it locally and you will be needing an IDE or Text Editor for that.
@@ -57,7 +59,7 @@ If you prefer instructions in the form of a video, visit [this](https://www.yout
 
 Next thing on our list is Python. We need to install python to be able to run python or use python packages on our device.
 
-Once again, if you'd like a video tutorial on installing python, visit [this](https://www.youtube.com/watch?v=TUct6dAfCds&t=120s){:target="blank"} link if you have a windows OS, [this]() link if you have a Mac and [this]() link if you have a linux. None of these videos belong to me, these are educational videos that have been made available on YouTube.
+Once again, if you'd like a video tutorial on installing python, visit <a href="https://www.youtube.com/watch?v=TUct6dAfCds&t=120s" target="_blank" >this</a> link if you have a Windows OS, <a href="https://www.youtube.com/watch?v=nhv82tvFfkM" target="_blank">this</a> link if you have a Mac and <a href="https://www.youtube.com/watch?v=3LFTujbSdl8" target="_blank">this</a> link if you have a linux. None of these videos belong to me, these are educational videos that have been made available on YouTube.
 
 - #### Step 1
 
@@ -70,3 +72,24 @@ Once again, if you'd like a video tutorial on installing python, visit [this](ht
   Choose the right link, based on your operating system, to start the installation of the installer. Usually, this just means pressing the yellow button.
 
 - #### Step 2
+
+  Open the Installer. Make sure the "add python.exe to PATH" box at the bottom is ticked before pressing "Install Now" to start the installation.
+  
+  If you would like to customize enything, feel free to press the "Customize Installation" button.
+
+  ![Python installation](https://i.postimg.cc/RZWR6vvh/Python-Installation.png)
+
+This should do it for installing python. To confirm, close any shell or Visual Studio Code window you may have opened and then reopen a Visual Studio Code window.
+
+Pres ctrl + ' to open a console.
+
+Copy and paste the below into the console.
+
+```
+python --version
+```
+
+It should return something like:
+```
+Python 3.12.4
+```
