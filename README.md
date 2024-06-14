@@ -52,6 +52,19 @@ If you prefer instructions in the form of a video, visit [this](https://www.yout
 
   ![Visual Studio Code Install](https://i.postimg.cc/BQGFyXM2/Visual-Studio-Code-Installation.png)
 
-Once Visual Studio Code has been installed, it's now time to download Python. Cause, y'know, you can't use python without installing python.
 
 ### Python
+
+Next thing on our list is Python. We need to install python to be able to run python or use python packages on our device.
+
+- #### Step 1
+
+  Go to [Python download page](https://www.python.org/downloads/) on the official Python website.
+
+  It should look like this:
+
+  ![Python Download Page](https://i.postimg.cc/4dv3dRrS/Python-Download-Page.png)
+
+  Choose the right link, based on your operating system, to start the installation of the installer. Usually, this just means pressing the yellow button.
+
+- #### Step 2
