@@ -57,6 +57,8 @@ If you prefer instructions in the form of a video, visit [this](https://www.yout
 
 Next thing on our list is Python. We need to install python to be able to run python or use python packages on our device.
 
+Once again, if you'd like a video tutorial on installing python, visit [this](https://www.youtube.com/watch?v=TUct6dAfCds&t=120s){:target="blank"} link if you have a windows OS, [this]() link if you have a Mac and [this]() link if you have a linux. None of these videos belong to me, these are educational videos that have been made available on YouTube.
+
 - #### Step 1
 
   Go to [Python download page](https://www.python.org/downloads/) on the official Python website.
