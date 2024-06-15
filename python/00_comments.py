@@ -49,9 +49,12 @@ variables in a quick bit).
 
 # Officially, there are no other types of comments, other than single line comments, in python.
 # What I did above should not really be used and is just bad practice.
+# If you really wanna use multiple lines of comments, comment out each line like I've done.
 
 # Final exercise for comments:
 # --------------------------------------------------------------------------- #
 # Give yourself a nickname and write it here:
 
 # --------------------------------------------------------------------------- #
+
+# Yay. Ready to move on? Let's see what's next...
