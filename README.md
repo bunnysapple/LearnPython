@@ -12,11 +12,11 @@ A key aspect of programming is, yknow, actually programming? And you can't alway
 
 What I like to use is Visual Studio Code, which is a free and popular Text Editor made by Microsoft, for programming. I like Visual Studio Code as it is highly customisable, with it's many extensions, and the ease of use for beginners. It's also very easy to install and start coding with, so I'll be outlining how to install it. If you already have it installed, or prefer a different IDE/Text Editor, feel free to skip this bit and follow along.
 
-If you prefer instructions in the form of a video, visit [this](https://www.youtube.com/watch?v=naL0cZNQh1g) link for windows, [this](https://www.youtube.com/watch?v=w0xBQHKjoGo) link for Mac and [this](https://www.youtube.com/watch?v=NX8SHmkuLn4) link for Linux. The videos were produced by [ProgrammingKnowledge](https://www.youtube.com/@ProgrammingKnowledge) and are not my property.
+If you prefer instructions in the form of a video, visit <a href="https://www.youtube.com/watch?v=naL0cZNQh1g" target="_blank">this</a> link for windows, <a href="https://www.youtube.com/watch?v=w0xBQHKjoGo" target="_blank">this</a> link for Mac and <a href="https://www.youtube.com/watch?v=NX8SHmkuLn4" target="_blank">this</a> link for Linux. The videos were produced by <a href="https://www.youtube.com/@ProgrammingKnowledge" target="_blank">ProgrammingKnowledge</a> and are not my property.
 
 - #### Step 1
 
-  Follow [this](https://code.visualstudio.com/) link to visual studio code home page: https://code.visualstudio.com/
+  Follow <a href="https://code.visualstudio.com/" target="_blank">this</a> link to visual studio code home page: https://code.visualstudio.com/
 
   It should look something like this:
 
@@ -63,7 +63,7 @@ Once again, if you'd like a video tutorial on installing python, visit <a href="
 
 - #### Step 1
 
-  Go to [Python download page](https://www.python.org/downloads/) on the official Python website.
+  Go to <a href="https://www.python.org/downloads/" target="_blank">Python download page</a> on the official Python website.
 
   It should look like this:
 
@@ -93,3 +93,5 @@ It should return something like:
 ```
 Python 3.12.4
 ```
+
+### Python Extensions in VS Code
