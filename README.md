@@ -95,3 +95,25 @@ Python 3.12.4
 ```
 
 ### Python Extensions in VS Code
+
+Before we start working with python, let's install the python extension for Visual Studio Code.
+
+Open Visual Studio Code. You might have initial prompts asking you to select your environment settings, like the background color, so select those first if you hadn't already, when testing if python was installed correctly.
+
+Your VS Code Window should look something like this:
+
+![Visual Studio Code Welcome Page](https://i.postimg.cc/kGSHZ5Nh/Visual-Studio-Code-Welcome-Page.png)
+
+Click The "Extensions" icon on the left side to open up extensions.
+
+![Visual Studio Code Extensions](https://i.postimg.cc/mDYM5fzy/Visual-Studio-Code-Extensions.png)
+
+You'll likely won't have any extensions installed, unlike me. Type in "python" and select "Pyhton" extension by Micosoft. It is likely the first one on the list.
+
+It will open up a tab similar to this:
+
+![Python Extension](https://i.postimg.cc/BbJDWY29/Python-Extension.png)
+
+You won't have it installed like I do, so go ahead and install it.
+
+Now we can start. Yay.
