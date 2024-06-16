@@ -20,7 +20,21 @@
 
 # Now, to get started.
 # First thing on our list is comments.
-# Ironically, comments are us telling the computer that this bit isn't code to be read.
+# Ironically, comments are us telling the *interpreter that this bit isn't code to be read.
+
+# *What's an interpreter?
+# Computers don't understand english, they work in binary code. Programming language are like
+# bridges between human languages and computer binary. When you run a python program, something
+# called an interpreter turns your code into binary code for the computer to... interpret...
+# what it is being asked to do.
+
+# It may sound weird that I'm telling you how to make the interpreter ignore things before
+# teaching you how to code but, comments are really important in programming.
+# Comments are used to explain to others reading your code, and yourself later on if you revisit
+# your code, what you are doing at any stage. But comments can also be used to test and debugg
+# your code.
+# Often times, if you run into a problem or want to see how your program works wihout a couple lines
+# of code, the best option is to just comment out those lines and run the code.
 
 # Now, I already used a few comments, so you might already get it.
 # But, to make a single line comment, you put a "#" in front of the line you want to comment out.
@@ -51,10 +65,26 @@ variables in a quick bit).
 # What I did above should not really be used and is just bad practice.
 # If you really wanna use multiple lines of comments, comment out each line like I've done.
 
-# Final exercise for comments:
+# Do this:
 # --------------------------------------------------------------------------- #
 # Give yourself a nickname and write it here:
 
 # --------------------------------------------------------------------------- #
 
-# Yay. Ready to move on? Let's see what's next...
+# Good. Hope you picked a nice nickname.
+
+# You now know how to make comments. How do you remove comments?
+# Ding, ding ding. That's right, you get rid of the "#" from the front of the line.
+# I really hope you are interested, I don't really enjoy acting like dora with no interaction.
+
+# --------------------------------------------------------------------------- #
+# Anyway, here's a line of code I've written down for you to uncomment and run:
+# Tip: To run the code, open the terminal and type in "python 00_comments.py"
+# How to open the console? Go to "Terminal" on the top left and click "New Terminal"
+# Or you can just press Ctrl and single quotes together if you are on Windows.
+
+#print("Hello, World!")
+# --------------------------------------------------------------------------- #
+
+# Good job. Why'd I choose to have you print "Hello, World!"? Idk. Just what I did and many before
+# me as well.
