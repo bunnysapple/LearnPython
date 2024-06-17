@@ -8,7 +8,7 @@ These installation guides are very basic and are aimed at Windows users, as that
 
 ### IDE/Text Editor
 
-A key aspect of programming is, yknow, actually programming? And you can't always code things in your browser. So, what you use instead is an IDE, or a Text Editor, as your codespace for you to work in. These are really impressive softwares that help. For this project, you will be required to fork this repository and run it locally and you will be needing an IDE or Text Editor for that.
+A key aspect of programming is, yknow, actually programming? And you can't always code things in your browser. So, what you use instead is an IDE, or a Text Editor, as your codespace for you to work in. These are really impressive softwares that help. For this project, you will be required to clone this repository and run it locally and you will be needing an IDE or Text Editor for that.
 
 What I like to use is Visual Studio Code, which is a free and popular Text Editor made by Microsoft, for programming. I like Visual Studio Code as it is highly customisable, with it's many extensions, and the ease of use for beginners. It's also very easy to install and start coding with, so I'll be outlining how to install it. If you already have it installed, or prefer a different IDE/Text Editor, feel free to skip this bit and follow along.
 
@@ -116,4 +116,6 @@ It will open up a tab similar to this:
 
 You won't have it installed like I do, so go ahead and install it.
 
-Now we can start. Yay.
+#### Git
+
+Git is what you'll be using to clone this repository from github. Because of this, you'll be required to donwload git and set it up before you start this project.
