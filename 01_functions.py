@@ -1,3 +1,4 @@
+from test import test_subtract_one
 
 def return_number(num):
     return num
@@ -60,7 +61,12 @@ def add_one(num):
 # Tip: I've used an addition operator, "+", above. "-" operator is used for subtraction.
 # Define function below:
 
+def subtract_one(num):
+    return num - 1
+
 # ------------------------------------------------------------------------------------------------ #
+
+test_subtract_one(subtract_one(9), 9)
 
 # Now that you've done that, run the code. If you do not remember how to run it, check
 # "00_comments.py" file. Remember that this file is called "01_functions.py".
