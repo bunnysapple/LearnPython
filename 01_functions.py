@@ -1,5 +1,3 @@
-from test import test_subtract_one
-
 def return_number(num):
     return num
 
@@ -9,13 +7,13 @@ def return_number(num):
 # You can run/call the above function by calling it's name and passing in any value if necessary.
 # Example:
 
-return_number(9)
+# return_number(9)
 
 # This only runs the code and returns the value, but to see it being returned, let's add a print function
 
-print(return_number(9))
+# print(return_number(9))
 
-# If you run this code in the terminal, you will see that it prints out the number 9.
+# If you uncomment and run this code in the terminal, you will see that it prints out the number 9.
 
 # Time to explain how to "define" a function.
 
@@ -48,25 +46,15 @@ print(return_number(9))
 
 # To return values from a function, you use the "return" keyword.
 
-# Exercise:
-
-def add_one(num):
-    return num + 1
 
 # ------------------------------------------------------------------------------------------------ #
-# Above, I've defined a function "add_one". Using that as a template, can you define a function
-# named "subtract_one" that takes in a number and returns a number one less than the number passed
-# in?
+# Below I have commented out a function. Uncomment the function and the print functions underneath and run the code 
+# to see whathappens in the terminal.
+
+# def add_one(num):
+#     return num + 1
 
 # Tip: I've used an addition operator, "+", above. "-" operator is used for subtraction.
 # Define function below:
 
-def subtract_one(num):
-    return num - 1
-
 # ------------------------------------------------------------------------------------------------ #
-
-test_subtract_one(subtract_one(9), 9)
-
-# Now that you've done that, run the code. If you do not remember how to run it, check
-# "00_comments.py" file. Remember that this file is called "01_functions.py".
