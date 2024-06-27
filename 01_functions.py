@@ -49,12 +49,21 @@ def return_number(num):
 
 # ------------------------------------------------------------------------------------------------ #
 # Below I have commented out a function. Uncomment the function and the print functions underneath and run the code 
-# to see whathappens in the terminal.
+# to see what happens in the terminal.
 
 # def add_one(num):
 #     return num + 1
 
-# Tip: I've used an addition operator, "+", above. "-" operator is used for subtraction.
-# Define function below:
+# Tip: To run the code, open the terminal and enter `python 01_functions.py`
 
 # ------------------------------------------------------------------------------------------------ #
+
+# You can pass in multiple values into a function if you want by defining multiple possible values within the brackets
+# when defining the function. You do this by writing out multiple variable names within the brackets seperated by commas.
+
+# Example:
+
+def add_these(num1, num2):
+    return num1 + num2
+
+# In the above function, I passed in two variables, num1 and num2, and returned the sum of the two variables.
