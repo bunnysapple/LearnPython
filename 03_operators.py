@@ -34,6 +34,15 @@ print(4 * 2) # This prints the result of 4 x 2, which is 8
 
 # ---------------------------------------------------------------------------------------------------------- #
 
+## '**' operator ##
+# '**' operator is the exponentiation operator. It's used to find the value of a value to the power of another
+# value.
+
+# Example:
+print(3 ** 2) # This will give you the value for 3², which is 9.
+
+# ---------------------------------------------------------------------------------------------------------- #
+
 ## '/' operator ##
 # '/' is known as the division operator. It's used in arithmetic functions for dividing numbers.
 
@@ -57,14 +66,5 @@ print(3 % 2) # This prints the value left over once you split 3 of something int
 
 # Example:
 print(3 // 2) # This calculates and prints the number of times 2 can fully go into 3, which is one times.
-
-# ---------------------------------------------------------------------------------------------------------- #
-
-## '**' operator ##
-# '**' operator is the exponentiation operator. It's used to find the value of a value to the power of another
-# value.
-
-# Example:
-print(3 ** 2) # This will give you the value for 3², which is 9.
 
 # ---------------------------------------------------------------------------------------------------------- #
