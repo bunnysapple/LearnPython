@@ -1,4 +1,4 @@
-from test import test_subtract_one, test_subtract_these # This is me importing functions from elsewhere. Ignore this for now.
+from test import Test_Operator # This is me importing functions from elsewhere. Ignore this for now.
 
 # We saw how a function is defined and I provided two examples of a function in the previous file.
 # To recap, the first firnction was the return_number function which returned the number passed in and
@@ -12,17 +12,18 @@ from test import test_subtract_one, test_subtract_these # This is me importing f
 # the value.
 
 
-# Uncomment the next line before running the code.
-# test_subtract_one(subtract_one(3), 3)
+# Uncomment the next two lines before running the code.
+# test_subtract_one = Test_Operator(subtract_one, "minus")
+# test_subtract_one.test_one()
 # ------------------------------------------------------------------------------------------------ #
 
 # Exercise 2:
 # ------------------------------------------------------------------------------------------------ #
 # Create a function named "subtract_these" which takes in teo number values and returns the result of
 # subtracting the first value with the second.
-def subtract_these(num1, num2):
-    return num1 - num2
 
-# Uncomment the next line before running the code.
-test_subtract_these(subtract_these(8, 4), 8, 4)
+
+# Uncomment the next two lines before running the code.
+# test_subtract_these = Test_Operator(subtract_these, "minus")
+# test_subtract_these.tests()
 # ------------------------------------------------------------------------------------------------ #
