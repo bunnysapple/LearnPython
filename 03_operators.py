@@ -68,3 +68,10 @@ print(3 % 2) # This prints the value left over once you split 3 of something int
 print(3 // 2) # This calculates and prints the number of times 2 can fully go into 3, which is one times.
 
 # ---------------------------------------------------------------------------------------------------------- #
+
+# Feel free to play around with operators below as much as you want. Next file would be a bunch of exercises
+# involving each of these operators. I hope next file isn't too big...
+
+# Tip: By "play around with operators", I mean use a print function and test out each operator to see what
+# result you might get.
+
