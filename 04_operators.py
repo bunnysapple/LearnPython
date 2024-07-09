@@ -3,6 +3,7 @@ from test import Test_Operator
 # It's testing time!!
 # Time to put your newly learned operators skills to the test.
 
+
 # Exercise 1: Addition
 #============================================================================================================#
 # Define a function called add_nums that adds together two numbers and returns the value.
@@ -15,9 +16,11 @@ from test import Test_Operator
 # addition.tests()
 #============================================================================================================#
 
+
 # Exercise 2: Subtraction
 #============================================================================================================#
-# Define a function called substract_nums that returns the difference between two numbers.
+# Define a function called subtract_nums that returns the difference between two numbers.
+# You've already done this but, hey, no harm in repeating. Try not to look back at previous files this time.
 # Use your knowledge of functions and operators.
 
 
@@ -27,10 +30,12 @@ from test import Test_Operator
 # subtraction.tests()
 #============================================================================================================#
 
+
 # Exercise 3: Multiplication
 #============================================================================================================#
 # Define a function called multiply_nums that returns the multiple of two numbres.
 # Use your knowledge of functions and operators.
+
 
 
 # Uncomment the following two lines before running the code.
@@ -38,16 +43,19 @@ from test import Test_Operator
 # multiplication.tests()
 #============================================================================================================#
 
+
 # Exercise 4: Division
 #============================================================================================================#
 # Define a function called divide_nums that returns the result of dividing the first number with the second.
 # Use your knowledge of functions and operators.
 
 
+
 # Uncomment the following two lines before running the code.
 # division = Test_Operator(divide_nums, "divide")
 # division.tests()
 #============================================================================================================#
+
 
 # Exercise 5: Floor Division
 #============================================================================================================#
@@ -61,6 +69,7 @@ from test import Test_Operator
 # floor_division.tests()
 #============================================================================================================#
 
+
 # Exercise 6: Exponentiation
 #============================================================================================================#
 # Define a function called exponentiate_nums which takes two numbers as inputs and returns the first number
@@ -73,6 +82,7 @@ from test import Test_Operator
 # exponentiation = Test_Operator(exponentiate_nums, "exponent")
 # exponentiation.tests()
 #============================================================================================================#
+
 
 # Exercise 7: Modulus
 #============================================================================================================#
